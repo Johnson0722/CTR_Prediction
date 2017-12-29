@@ -1,0 +1,9 @@
+# Created by .ignore support plugin (hsz.mobi)
+/.idea
+*.pkl
+*.csv
+*.png
+/dicts
+/future2field
+/sets
+
